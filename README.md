@@ -1,4 +1,4 @@
-# Polymorphism-Code
+# Polymorphism Code
 
 ## Objective
 
@@ -28,7 +28,7 @@ The Polymorphism-Code project was a deep dive into the dynamic landscape of code
 - Demonstrated the execution of the script in a controlled environment, confirming the script’s integrity and the security of the encryption process.
 
 
-## Visual Representation of the SOC Automation Lab Workflow
+## Visual Representation of the Polymorphism Code Workflow
 
 ![Password Checker](https://github.com/Falola-Uthman/Polymorphism-Code/assets/50869547/5a7c7018-1846-49d5-801e-47220d4aed9a)
 Ref 1: Password Checker: The initial script assessing password strength.
